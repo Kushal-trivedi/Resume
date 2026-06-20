@@ -1,1 +1,1 @@
-* Resume will not show in the code section direct download using the file download feature *
+* Resume may be not shown in the code section direct download using the file download feature. *
